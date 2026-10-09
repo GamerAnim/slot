@@ -66,3 +66,6 @@ that something that evokes the feeling of using my GBA SP as a kid would be pret
 Use it, don't use it, I don't care.
 
 Figured I should share the end result of all the wasted water. ✌🏻
+
+# Credits
+Created by BrandonKowalski, his repository is https://github.com/BrandonKowalski/slot
