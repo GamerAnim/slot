@@ -12,7 +12,7 @@ jobs:
   build:
     name: card tree
     runs-on: ubuntu-24.04-arm
-    container: rust:1-bullseye
+    container: mirror.gcr.io/library/rust:1-bullseye
     outputs:
       zip: ${{ steps.package.outputs.zip }}
     steps:
